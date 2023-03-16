@@ -9,7 +9,7 @@
     <item
         android:id="@+id/hadithFragment"
         android:title="Hadith"
-        android:icon="@drawable/ic_quran"
+        android:icon="@drawable/ic_hadith"
        />
     <item
         android:id="@+id/homeFragment"

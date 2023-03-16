@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_setting"
+        android:title="Settings" />
+    <item
+        android:id="@+id/remove_ads"
+        android:icon="@drawable/ic_ads"
+        android:title="Remove Ads" />
+    <item
+        android:id="@+id/whtsapp"
+        android:icon="@drawable/ic_whatsapp"
+        android:title="Whatsapp" />
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_notification"
+        android:title="Notifications"
+
+        />
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/ic_feedback"
+        android:title="Feedback" />
+    >
+    <item
+        android:id="@+id/certification"
+        android:icon="@drawable/ic_certificate"
+        android:title="Certificates"
+
+        />
+    <item
+        android:id="@+id/faqs"
+        android:icon="@drawable/ic_faqs"
+        android:title="Faqs"
+
+        />
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:title="Share"
+
+        />
+    <item
+        android:id="@+id/follow_us"
+        android:icon="@drawable/ic_follow_us"
+        android:title="Follow us"
+
+        />
+</menu>

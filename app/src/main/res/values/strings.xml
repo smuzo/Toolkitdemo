@@ -7,4 +7,7 @@
     <string name="home">Home</string>
     <string name="ibadat">Ibadat</string>
     <string name="more">More</string>
+    <string name="todo">TODO</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="hadiths">Hadiths</string>
 </resources>
